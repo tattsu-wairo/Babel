@@ -25,9 +25,15 @@ WASD：移動
 ## 担当箇所
 
 ・プレイヤーの移動(PlayerController.cs)
+
 ・視点移動(PlayerController.cs)
+
 ・スコア管理(ScoreManager.cs)
+
 ・時間管理(TimeManeger.cs)
+
 ・ロゴデザイン
+
 ![ロゴ1](/Assets/Photon/PhotonUnityNetworking/Resources/7becde199d7eda70.png)
+
 ![ロゴ2](/Assets/Photon/PhotonUnityNetworking/Resources/704fde43e738b0a5.png)
