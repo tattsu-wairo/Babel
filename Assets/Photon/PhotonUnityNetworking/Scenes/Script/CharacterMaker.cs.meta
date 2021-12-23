@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e0ea63a551147244a10d7be83d529cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 5097460085346020657, guid: 1622f2981d3479d438dda5439427ea88, type: 3}
+  - NPC: {fileID: 3145346167180543080, guid: 81a9fb297839609469eeadf4bf0ce2c2, type: 3}
+  - shark: {fileID: 1378469141940895323, guid: 56b617b5acd54ef40be98a6505a2cbf9, type: 3}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
