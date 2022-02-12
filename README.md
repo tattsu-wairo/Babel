@@ -6,6 +6,10 @@
 
 バベル転生：<https://unityroom.com/games/k3babel>
 
+## プレイ動画をYoutubeに公開中
+
+バベル転生:https://youtu.be/3hxkZGQPU6A
+
 ## ゲーム紹介
 
 非対称鬼ごっこゲームです。
